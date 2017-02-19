@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-pub-path-plugin",
+  "version": "0.0.1",
+  "description": "specify expression to be used as a publicPath by chunks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inferpse/dynamic-pub-path-plugin.git"
+  },
+  "author": "inferpse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inferpse/dynamic-pub-path-plugin/issues"
+  },
+  "homepage": "https://github.com/inferpse/dynamic-pub-path-plugin#readme",
+  "dependencies": {
+    "webpack-sources": "^0.1.2"
+  }
+}
