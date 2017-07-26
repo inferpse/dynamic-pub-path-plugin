@@ -1,7 +1,7 @@
 {
   "name": "dynamic-pub-path-plugin",
-  "version": "0.0.1",
-  "description": "specify expression to be used as a publicPath by chunks",
+  "version": "0.0.2",
+  "description": "Allows to specify expression that will be used as a 'publicPath' in dynamic chunk loading",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/inferpse/dynamic-pub-path-plugin#readme",
   "dependencies": {
-    "webpack-sources": "^0.1.2"
+    "babel-core": "^6.24.1",
+    "webpack-sources": "^1.0.1"
   }
 }
