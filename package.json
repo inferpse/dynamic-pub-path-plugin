@@ -1,6 +1,6 @@
 {
   "name": "dynamic-pub-path-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Allows to specify expression that will be used as a 'publicPath' in dynamic chunk loading",
   "main": "index.js",
   "scripts": {
